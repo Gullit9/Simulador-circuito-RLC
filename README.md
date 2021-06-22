@@ -8,8 +8,11 @@ Programadores: Gullit e Gabriela
 2°: Iformar os dados do circuito: deverão ser informados os dados do circuito RLC em questão: os valores de R, L, C e suas condições iniciais.
 
 3°: Informar dados da onda de entrada:
+
     - Caso seja escolhida a opção onda qualquer, será necessário inserir o arquivo texto da onda.
+    
     - Para as ondas senoidais e quadradas, deverão ser informados os dados de Frequência e Amplitude da onda.
+    
     - Para a onda quadrada, também deverá ser informado o Duty Cicle.
     
 4º: Caso necessário, é possível alterar a taxa de amostragem assim como o número de amostras.
